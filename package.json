@@ -6,7 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
+    "browser-image-compression": "^1.0.15",
+    "next": "^11.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
